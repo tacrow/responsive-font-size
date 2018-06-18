@@ -1,0 +1,8 @@
+{
+  "name": "responsive-font-size",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tacrow/responsive-font-size.git",
+  "author": "tacrow",
+  "license": "MIT"
+}
